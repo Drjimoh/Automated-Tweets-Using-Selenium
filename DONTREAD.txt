@@ -1,0 +1,32 @@
+*Yeah, thats exactly what I was doing when I wrote this program
+**There is fun in breaking the rules especially when Twitter's Developer account is now like GRE & SAT
+***This short program will help you send sets of pre-listed tweets to your account even while you sleep
+
+****I use it for automated marketing, with a little spice of evil you can (insert words here)
+
+#Under the GNU license (Open Source Sauce)
+
+***You know the drill, feel free to distribute, modify, blah blah.. and of course feel free to end up in jail if you may.
+
+PLEASE DO NOT USE IT TO SPAM OTHERS, SPAMMERS ARE LIABLE TO DIE YOUNG.
+
+
+Have fun...
+
+Requirements:
+
+ChromeDriver (executable)
+Python 3
+Selenium (pip install selenium #commonsense)
+Commonsense
+A computer with an internet connection (#commonsense)
+More Commonsense
+
+
+HAve fun and feel free to mail me : waliu.jimoh@yahoo.com (spam and die at will)
+
+Bye for now
+
+
+
+
